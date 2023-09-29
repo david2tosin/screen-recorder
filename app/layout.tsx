@@ -1,4 +1,5 @@
 import Nav from "./components/Nav";
+import Footer from "./components/Footer";
 import { sora } from "./fonts";
 import "./globals.css";
 import type { Metadata } from "next";
@@ -19,6 +20,7 @@ export default function RootLayout({
         <main className="relative min-h-screen">
           <Nav />
           {children}
+          <Footer />
         </main>
       </body>
     </html>
