@@ -14,6 +14,9 @@ export default function Home() {
               Help your friends and loved ones by creating and sending videos on
               how to get things done on a website.
             </p>
+            <button className="bg-primary-main text-white rounded-lg p-5">
+              Install HelpMeOut
+            </button>
           </div>
 
           <div className="relative">
