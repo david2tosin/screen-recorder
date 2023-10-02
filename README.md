@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+##Pages/Routes
+
+Home-https://screen-recorder-tosin.vercel.app/
+
+Login-https://screen-recorder-tosin.vercel.app/login
+
+Save Video-https://screen-recorder-tosin.vercel.app/save
+
+Video Page=https://screen-recorder-tosin.vercel.app/videos/video
+
 ## Getting Started
 
 First, run the development server:
